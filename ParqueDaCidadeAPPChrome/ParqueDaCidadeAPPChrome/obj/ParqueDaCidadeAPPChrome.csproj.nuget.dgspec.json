@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome.csproj",
+        "projectName": "ParqueDaCidadeAPPChrome",
+        "projectPath": "C:\\Projetos\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome.csproj",
+        "packagesPath": "C:\\Users\\thiago.alves\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ParqueDaCidadeAPPChrome\\ParqueDaCidadeAPPChrome\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thiago.alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.0.0.20/internos/nugetserver/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

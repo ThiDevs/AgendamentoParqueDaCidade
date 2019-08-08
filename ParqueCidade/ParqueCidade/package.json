@@ -1,0 +1,12 @@
+{
+  "name": "parque-cidade",
+  "version": "0.0.0",
+  "description": "ParqueCidade",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

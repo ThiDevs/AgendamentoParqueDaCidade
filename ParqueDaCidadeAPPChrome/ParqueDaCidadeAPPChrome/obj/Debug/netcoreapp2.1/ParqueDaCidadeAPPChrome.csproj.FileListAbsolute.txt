@@ -1,0 +1,11 @@
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\bin\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.deps.json
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\bin\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.runtimeconfig.json
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\bin\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.runtimeconfig.dev.json
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\bin\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.dll
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\bin\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.pdb
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.csprojAssemblyReference.cache
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.csproj.CoreCompileInputs.cache
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.AssemblyInfoInputs.cache
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.AssemblyInfo.cs
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.dll
+C:\Projetos\ParqueDaCidadeAPPChrome\ParqueDaCidadeAPPChrome\obj\Debug\netcoreapp2.1\ParqueDaCidadeAPPChrome.pdb

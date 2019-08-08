@@ -1,0 +1,3 @@
+C:\Projetos\ParqueCidade\ParqueCidade\obj\Debug\ParqueCidade.njsprojAssemblyReference.cache
+C:\Projetos\ParqueCidade\ParqueCidade\obj\Debug\ParqueCidade.njsproj.CoreCompileInputs.cache
+C:\Projetos\ParqueCidade\ParqueCidade\bin\Microsoft.NodejsTools.WebRole.dll
